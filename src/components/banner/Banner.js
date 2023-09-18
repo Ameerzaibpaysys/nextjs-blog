@@ -13,12 +13,7 @@ export const Banner = () => {
   <span className='text-designColor capitalize'> Zaib</span>
   </h1>
   <h2 className='text-4xl font-bold text-white'>a <span>WebDeveloper</span></h2>
-  <p>The quick brwon fox jumps over the lazy dog The quick brwon fox jumps over the lazy dog
-  The quick brwon fox jumps over the lazy dog
-  The quick brwon fox jumps over the lazy dog
-  The quick brwon fox jumps over the lazy dog
-  The quick brwon fox jumps over the lazy dog
-  The quick brwon fox jumps over the lazy dog
+  <p>BSCS graduate from Dawood University with 1 year of frontend development experience at Sky Solutions, specializing in user-friendly web interfaces. Also, a skilled Email Marketing Specialist. Passionate about turning ideas into captivating digital experiences
 
   </p>
     </div>
