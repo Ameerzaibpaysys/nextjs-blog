@@ -1,8 +1,9 @@
 import React from 'react'
+import Typewriter from 'typewriter-effect/dist/core';
 import {FaFacebookF, FaTwitter, FaLinkedinIn, FaReact} from "react-icons/fa";
 import {SiTailwindcss, SiFigma, SiNextdotjs} from "react-icons/si"
 import LeftBanner from './LeftBanner';
-export const Banner = () => {
+export const Banner = () => { 
   return (
     <saction id="home" className="pt-10 pb-20 w-full pb-20 flex
      items-center border-b-[1px] border-b-black font-titleFont" >
@@ -12,7 +13,8 @@ export const Banner = () => {
  <h1 className='text-6xl font-bold text-white'>Hi, I'm  
   <span className='text-designColor capitalize'> Zaib</span>
   </h1>
-  <h2 className='text-4xl font-bold text-white'>a <span>WebDeveloper</span></h2>
+  <h2 className='text-4xl font-bold text-white'>a <span>
+ Web Developer </span></h2>
   <p>BSCS graduate from Dawood University with 1 year of frontend development experience at Sky Solutions, specializing in user-friendly web interfaces. Also, a skilled Email Marketing Specialist. Passionate about turning ideas into captivating digital experiences
 
   </p>
