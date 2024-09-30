@@ -5,7 +5,7 @@ import {SiTailwindcss, SiFigma, SiNextdotjs} from "react-icons/si"
 import LeftBanner from './LeftBanner';
 export const Banner = () => { 
   return (
-    <saction id="home" className="pt-10 pb-20 w-full pb-20 flex
+    <saction id="home" className="pt-10 pb-20px w-full pb-20px flex
      items-center border-b-[1px] border-b-black font-titleFont" >
     <div  className='w-1/2 flex flex-col gap-20'>
     <div className='flex flex-col gap-3'>
